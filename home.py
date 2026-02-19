@@ -15,7 +15,7 @@ def app():
                 margin: auto;
                 padding: 20px;
                 border-radius: 10px;
-                box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+                box-shadow: 0px 0px 100px rgba(0, 0, 0, 0.1);
             }
             .section-title {
                 font-size: 24px;
@@ -78,3 +78,4 @@ def app():
 
     # Copyright
     st.markdown("<footer>&copy; 2024 HealthInsights. All rights reserved.</footer>", unsafe_allow_html=True)
+
